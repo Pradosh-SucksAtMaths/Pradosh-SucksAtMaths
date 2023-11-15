@@ -4,7 +4,7 @@
 👀 I’m interested in Maths especially in Calculus
 
 
-🌱 first year studying for a mathematics degree
+🌱 First year studying for a mathematics degree
+and preparing for JEE and ISI alongside with College 
 
-
-📫 you Can reach to me via gmail at pradosh2k@gmail.com and in discord at dumbest_shit#364
+📫 you Can reach to me via gmail at pradosh2k@gmail.com and in discord at dumbest_shit#3648
