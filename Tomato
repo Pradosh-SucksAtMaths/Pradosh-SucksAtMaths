@@ -1,6 +1,6 @@
 ,,\int \tan(\sqrt\theta)d\theta\\
 \\
-\text{taking} \tan\theta =x^2\\
+ \tan\theta =x^2\\
 
 \\
 \dd(\tan\theta) = \dd{(x^2)}\\
