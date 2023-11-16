@@ -1,0 +1,6 @@
+$\int \tan(\sqrt\theta)d\theta$\\taking $\tan\theta =x^2$\\
+$d(\tan\theta) = \dd{(x^2)}$ \\$\sec^{2}(\theta)=2(x)\dd{x}$\\
+d$\theta = \frac{2x}{\sec^2 \theta}\dd{\theta} = \frac{2x}{1+\tan^2 \theta}\dd{\theta}= \frac{2x}{1+x^4}\dd{\theta}$\\$\dd\theta=\frac{2x}{1+x^4}\dd{x}$\\
+$I = \int\frac{{\sqrt{x^2}}\times2x}{1+x^4}\dd{x}$\\$\implies\int\frac{2x^2}{1+x^4}\dd{x} = \int \frac{2x}{x^{-2}+x^2}\dd{x}$\\
+$\implies\int\frac{1+1+x^{-2}\ - x^{-2}}{x^{-2}+x^{2}}\dd{x}$\\$\implies\int\frac{1+x^{-2}}{x^{-2}+x^{2}}\dd{x} + \int\frac{1-x^{-2}}{x^{-2}+x^{2}}\dd{x}$\\
+$\implies\int\frac{1+x^{-2}}{x^{-2}+x^{2}+2-2}\dd{x} + \int\frac{1-x^{-2}}{x^{-2}+x^{2}+2-2}\dd{x}$\\$\implies\int\frac{1+(x)^{-2}}{(x-\frac{1}{x})^{2} +2}\dd{x} + \int\frac{1-(x)^{-2}}{(x+\frac{1}{x})^{2} -2}\dd{x}$\\
